@@ -1,0 +1,24 @@
+a {
+    color: #ff1492;
+
+}
+
+a:hover{
+    color: #ff149187
+}
+
+.main p:first-of-type:first-letter {
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+}
+
+.design-selection_li {
+    border-top: #1f295c solid 1px;
+    padding-top: 5px; 
+}
+
+.design-selection_li:last-of-type {
+    border-top: #1f295c solid 1px;
+    padding-bottom: 5px;
+}
